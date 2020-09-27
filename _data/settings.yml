@@ -1,11 +1,12 @@
-title: Your name or name of site
-description: A website with a blog
-header_text: My Dream Blog
+title: "Valeria's Blog "
+description: My blog for the module 'Typographic Design for Page and Screen'.
+header_text: Typography that surrounds us
 footer_text: Copyright 2020 Your name
 header_feature_image: ../uploads/pages.jpg
-bannerheight: "20vmax"
-gridlayout: false
+bannerheight: 20vmax
 logo: /uploads/logo.jpg
 favicon: /uploads/favicon.ico
-upzoom: true
+gridlayout: false
 fixednavbar: false
+upzoom: true
+items: []
