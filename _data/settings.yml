@@ -6,7 +6,7 @@ footer_text: Copyright 2020 Valeria Ilina
 header_feature_image: ../uploads/graffiti.jpg
 bannerheight: 20vmax
 logo: ../uploads/logo-second-option.jpg
-favicon: ../uploads/favicon-32x32.png
+favicon: ../uploads/favicon-nottransparent32x32.png
 gridlayout: false
 fixednavbar: false
 upzoom: true
