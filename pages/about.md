@@ -4,7 +4,7 @@ title: About
 subtitle: ""
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
-header_feature_image: ../uploads/misha_most_12.jpg
+header_feature_image: ../uploads/photo-1573507240870-2d1451c412b9.jpg
 published: true
 tags: null
 description: null
