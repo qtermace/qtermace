@@ -2,7 +2,7 @@
 layout: post
 title: "Decree #1 on the Democratization of Art And A Bit More History "
 date: 2020-10-26T01:19:01.462Z
-header_feature_image: ../uploads/unnamed.jpg
+header_feature_image: ../uploads/tracy168_widlstyle_1024x1024.jpg
 comments: true
 ---
 On March 15, 1918 in Moscow, the first issue of the futurist Newspaper was published under the editorship of V. Mayakovsky, D. Burlyuk and V. Kamensky. In his manifesto, Mayakovsky wrote:
@@ -25,6 +25,4 @@ As a result, 1970’s graffiti soon progressed from scribbled signatures done wi
 
 ![The early writers all agree that the first subway mast the first subway masterpiece was done on an IRT Subway train by SUPER KOOL 223.](../uploads/superkool223_graffiti365_325.jpg)
 
-![Tracy 168 and Phase 2 were one of the first to to create innovative elaborate lettering.](../uploads/tracy168_widlstyle_1024x1024.jpg)
-
-![](../uploads/r2_3_phase_2_train_-_ml.jpg)
+![Phase 2 and Tracy 168 were one of the first ones to create innovative elaborate lettering. ](../uploads/r2_3_phase_2_train_-_ml.jpg)
