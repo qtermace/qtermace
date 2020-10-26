@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Decree #1 on the Democratization of Art And A Bit More History "
+title: '"Decree #1 on the Democratization of Art" And A Bit More History '
 date: 2020-10-26T01:19:01.462Z
 header_feature_image: ../uploads/tracy168_widlstyle_1024x1024.jpg
 comments: true
