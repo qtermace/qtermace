@@ -1,7 +1,203 @@
+/* ---- General Styles ---- */
 body {
-
+	margin: 0px;
+	text-align: center;
+	font-family: Times, "Times New Roman", serif;
+	font-weight: 400;
 }
 
-h1 {
-  
+/* ---- Introduction Section ---- */
+.introduction_section {
+	height: 700px;
+	width: 100%;
+	background-image: url("img/sea.jpg");
+	background-size: cover;
+}
+
+/* Profile Picture */
+.profile_picture_square {
+	padding-top: 150px;
+}
+
+.profile_picture {
+	background-image: url("img/me.jpg");
+	background-position: center;
+	width: 160px;
+	height: 160px;
+	border: pink 5px solid;
+	border-radius: 50px;
+	background-size: 105%;
+
+	margin-right: auto;
+	margin-left: auto;
+}
+
+/* Hello text */
+.hello_title {
+	color: white;
+	text-align: center;
+	font-size: 50px;
+	margin-top: 10px;
+	margin-bottom: 0px;
+}
+
+.hello_subtitle {
+	color: white;
+	text-align: center;
+	font-size: 19px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+/* Social Icons */
+.social_icon {
+	margin: 5px;
+}
+
+.social_icon img {
+	width: 30px;
+}
+
+.social_icon:hover {
+	opacity: 0.5;
+}
+
+
+/* ---- Few Things Banner ---- */
+.few_things_banner {
+	background-color: #A78BD4;
+}
+
+.few_things_text {
+	color: white;
+	font-size: 30px;
+	text-align: center;
+	margin: 0;
+	padding: 15px;
+}
+
+
+
+/* ---- Facts ---- */
+/* Main Text */
+.facts {
+	background-color: #EFEFEF;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.facts p {
+	text-align: center;
+	color: #515151;
+	font-size: 25px;
+	font-weight: 300;
+	line-height: 50px;
+
+	max-width: 760px;
+	margin: 80px auto 80px auto;
+	padding: 0 20px 0 20px;
+	border: 2px solid black;
+}
+
+/* Text Highlight Colour */
+.highlight {
+	color: #A78BD4;
+	font-weight: 500;
+}
+
+/* Fact Links */
+.fact_link {
+	color: #A78BD4;
+	font-weight: 500;
+	text-decoration: none;
+	border-bottom: 3px solid #A78BD4;
+	padding: 0px 2px 0px 2px;
+}
+
+.fact_link:hover {
+	color: #EFEFEF;
+	background-color: #A78BD4;
+	padding: 0px 2px 0px 2px;
+}
+
+/* Fact Picture */
+.fact_image {
+	max-width: 400px;
+	border: pink solid 10px;
+
+	display: block;
+	margin: 20px auto 0 auto;
+}
+
+/* News */
+.news {
+	font-family: "Avenir", "Helvetica Neue", "Arial", sans-serif;
+	text-align: center;
+	color: #515151;
+	font-size: 25px;
+	font-weight: 300;
+	list-style-type: none;
+
+	padding: 0;
+	margin: 0;
+	padding-top: 20px;
+	margin-top: -80px;
+}
+
+.news li {
+	padding-bottom: 5px;
+	margin-bottom: 15px;
+}
+
+
+/* --- Tell Me About You --- */
+.tell_me_section {
+	background-color: #A78BD4;
+	width: 100%;
+}
+
+/* 'You've learned a little about me.' */
+.learned_text {
+	text-align: center;
+	color: white;
+	font-size: 25px;
+	font-weight: 300;
+	line-height: 70px;
+
+	max-width: 760px;
+	margin: 0 auto 0 auto;
+	padding: 20px 15px 15px;
+}
+
+/* 'Tell me about you' Box */
+.tell_me_link {
+	text-align: center;
+	color: white;
+	font-size: 25px;
+	font-weight: 300;
+	line-height: 50px;
+
+	padding: 20px;
+	margin: auto;
+	padding-bottom: 30px;
+	padding-top: 30px;
+}
+
+.tell_me_link a {
+	color: white;
+	text-decoration: none;
+	border: white 3px solid;
+	border-radius: 5px;
+
+	padding: 10px 20px 10px 20px;
+}
+
+.tell_me_link a:hover {
+	color: #A78BD4;
+	background-color: white;
+	text-decoration: none;
+	border: white 3px solid;
+	border-radius: 5px;
+
+	padding: 10px 20px 10px 20px;
 }
