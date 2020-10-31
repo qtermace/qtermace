@@ -2,7 +2,7 @@
 layout: post
 title: What Do They Say
 date: 2020-10-31T02:48:38.286Z
-header_feature_image: ../uploads/artist.jfif
+header_feature_image: ../uploads/wow.jfif
 comments: true
 ---
 If you just pay attention, you will notice that there are graffiti everywhere. It can be a large, glorious and professionally made mural in a “whole wall of a building” size. Or, it can be just a small hard-to-read inscription on a bus stop made by some bored kid while he was waiting for his transport to come, so he could finally get home, make a quick dinner, go on Netflix and keep filling up his sketchbook with drawings of cartoon characters while watching “BoJack Horseman”. Some would refer the first work to art, saying that the kid’s tag is vandalism. I remember walking with my mom to our favourite coffee-shop, and we passed by this crazy big and pretty tag (don’t know what was written there as it’s usually hard to read graffiti tags, but it still was nice!), surrounded by weirdly drawn smiling fish and dinosaurs who were smoking joints. My mom took a brief glance and said something like: “Oh, why they do it? It’s so ugly.” While I was astonished by how cool it was and how much I loved it. People say lots of things about graffiti-artists and their works: some like it, some don't. However, what do graffiti-artists themselves have to say?
@@ -19,7 +19,7 @@ If you just pay attention, you will notice that there are graffiti everywhere. I
 
  “Oh, I write anything, really. It’s not about the words. It’s about the letters and the way *I will make them look.*”
 
-![](../uploads/illegal-graffiti-artist-2-1.jpg)
+![](../uploads/artist.jfif)
 
 “I don’t think it’s selfishness, narcissism. I think that it’s just the work over the shape. It’s just the combination of letters you are working on. Like your own logo, your own mark.”
 
