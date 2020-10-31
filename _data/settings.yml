@@ -7,7 +7,7 @@ header_feature_image: ../uploads/photo-1540678931042-41a977082abf.jpg
 bannerheight: 20vmax
 logo: ../uploads/logo-second-option.jpg
 favicon: ../uploads/faviconn.ico
-gridlayout: false
+gridlayout: true
 fixednavbar: true
 upzoom: true
 items:
