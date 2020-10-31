@@ -3,15 +3,19 @@ body {
 	margin: 0px;
 	text-align: center;
 	font-family: Times, "Times New Roman", serif;
-	font-weight: 400;
+	font-weight: 1000;
+	background-image:url("../img/sea.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+background-position: center;
+width: 100%
 }
 
 /* ---- Introduction Section ---- */
 .introduction_section {
 	height: 700px;
 	width: 100%;
-	background-image: url("../img/sea.jpg");
-	background-size: cover;
 }
 
 /* Profile Picture */
@@ -65,7 +69,8 @@ body {
 
 /* ---- Few Things Banner ---- */
 .few_things_banner {
-	background-color: #A78BD4;
+	background-color: rgba(167, 140, 212, 0.73);
+
 }
 
 .few_things_text {
@@ -81,14 +86,13 @@ body {
 /* ---- Facts ---- */
 /* Main Text */
 .facts {
-	background-color: #EFEFEF;
 	padding-top: 5px;
 	padding-bottom: 5px;
 }
 
 .facts p {
 	text-align: center;
-	color: #515151;
+	color: white;
 	font-size: 25px;
 	font-weight: 300;
 	line-height: 50px;
@@ -97,6 +101,7 @@ body {
 	margin: 80px auto 80px auto;
 	padding: 0 20px 0 20px;
 	border: 2px solid black;
+	background: rgba(0, 0, 0, 0.7);
 }
 
 /* Text Highlight Colour */
@@ -149,10 +154,17 @@ body {
 	margin-bottom: 15px;
 }
 
+.news {
+
+	max-width: 800px;
+	margin: 20px auto 20px auto;
+	border: 2px solid black;
+	background: rgba(0, 0, 0, 0.7);
+}
 
 /* --- Tell Me About You --- */
 .tell_me_section {
-	background-color: #A78BD4;
+	background-color: rgba(167, 140, 212, 0.73);
 	width: 100%;
 }
 
