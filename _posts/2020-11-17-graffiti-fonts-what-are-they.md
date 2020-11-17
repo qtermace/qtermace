@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Graffiti fonts: what are they?"
+title: "Graffiti Fonts: What Are They?"
 date: 2020-11-17T22:59:43.477Z
 header_feature_image: ../uploads/imageeeeee-for-5-post.jpg
 comments: true
