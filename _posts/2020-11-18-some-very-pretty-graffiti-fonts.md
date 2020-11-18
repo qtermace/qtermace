@@ -2,7 +2,7 @@
 layout: post
 title: Some Very Pretty Graffiti Fonts
 date: 2020-11-17T23:13:43.480Z
-header_feature_image: ../uploads/cover.jfif
+header_feature_image: ../uploads/coverr.jpg
 comments: true
 ---
 Nowadays, artists and writers no longer have to vandalize locations so the world could see their graffiti art. The web allows them to create gorgeous and exquisite fonts that they can display publicly and legally, whether they decide to sell them or make them available for free.
