@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Some Very Pretty Graffiti Fonts
+title: Some Pretty Graffiti Fonts
 date: 2020-11-17T23:13:43.480Z
 header_feature_image: ../uploads/coverr.jpg
 comments: true
