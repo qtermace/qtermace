@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Graffiti in Art
+title: Graffiti Text in Art
 date: 2020-11-30T15:16:25.840Z
 header_feature_image: ../uploads/covvererr.jpg
 comments: true
@@ -24,7 +24,6 @@ Jules Dedet Grenel – or L’Atlas – is a former student of archaeology and c
 \
 **Alexis Rero.**
 
-\
 This conceptual artist’s style is made of his innovative approach to street art based around language. Introduced to the street through graffiti, he eventually felt limited by a spray can and began exploring imagery through the use of typography and design of graffiti art letters. Rero is most noted for his minimalist statements, ironic and dystopian phrases, with a signature stark black line crossing them out used to trigger contemplative reactions from viewers. Apart from exhibiting his work in galleries and abandoned and dilapidated spaces of urban landscapes Alexis Rero also erects his three-dimensional word sculptures made of wood in the natural environments of beautiful open fields and countryside.
 
 ![](../uploads/03-rero.jpg)
