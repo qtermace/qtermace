@@ -7,21 +7,17 @@ comments: true
 ---
 Nowadays, artists and writers no longer have to vandalize locations so the world could see their graffiti art. The web allows them to create gorgeous and exquisite fonts that they can display publicly and legally, whether they decide to sell them or make them available for free.
 
-On the web, there is a variety of different graffiti fonts and you can find so many of them. It is not very easy to find the best graffiti font because it’s pretty tricky to define what makes a graffiti font. But, as everything in this world, some people will like something, some won’t. In this post I’ve collated some examples of free to download graffiti fonts I think are the prettiest and most outstanding.
+On the web, there is a variety of different graffiti fonts and you can find so many of them. It is not very easy to find the best graffiti font because it’s pretty tricky to define what makes a graffiti font. But, as everything in this world, some people will like something, some won’t. In this chapter, I’ve collated some examples of free to download graffiti fonts I think are the prettiest and most outstanding.
 
 **01. Rusto Cap Brush**
 
-Rusto Fat Cap Brush is a personal project from designers Luis Di Lascio and Patri Pérez. With a flowing spraypaint style, it's bold and colourful and can be downloaded for free from Dropbox (you need an account).
-
- 
+Rusto Fat Cap Brush is a personal project from designers Luis Di Lascio and Patri Pérez. With a flowing spraypaint style, it's bold and colourful and can be downloaded for free from Dropbox.
 
 ![](../uploads/1-font.jpg)
 
 **02. Sprite**
 
 Featuring a merging of legibility and graffiti style, this appealing font was created in Cyrillic. This is a functional font, that is totally legible whilst keeping the graffiti feel, in a brushstroke style. Built for a wide audience, it is an approachable way of adding an urban edge to a project.
-
- 
 
 ![](../uploads/sprite.jpg)
 
@@ -58,3 +54,5 @@ A wonderfully handcrafted font with a melting text effect, this font is ideal f
 **08. JuneBug Font**
 
 The JuneBug is a playful, graffiti-style font that is perfect for any design project geared towards a young audience. The font includes uppercase and lowercase letters, numbers, and punctuation.
+
+![](../uploads/junebug.jpg)
